@@ -14,7 +14,7 @@
     <flashmethod>sti05</flashmethod>
     <checksummodule>subarudbw</checksummodule>
   </romid>
-  <include>32BITBASE</include>
+  <include>ALSBASE</include>
   <table name="Target Boost" address="c0c34">
     <table name="X" address="c0be8" />
     <table name="Y" address="c0c08" elements="11" />
